@@ -19,7 +19,7 @@ body {
 }
 
 .postcard-header h1 {
-	width: 400px;
+	width: 340px;
 	margin: 0;
 }
 
@@ -47,5 +47,5 @@ input {
 
 button {
 	background-color: grey;
-	padding: 5px;
+	padding: 10px;
 }
